@@ -6,13 +6,13 @@ body {
 
 nav {
     display: flex;
-    align-items: center!important;
-    justify-content: flex-start!important;
+    align-items: center;
+    justify-content: flex-start;
 
 }
 
 nav p {
-    margin: 0!important;
+    margin: 0;
 
 }
 
